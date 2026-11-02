@@ -1,5 +1,19 @@
 # 🐳 Awesome DSH Plugins
 
+> ### 这是什么
+> **DSH 插件精选**：每天自动抓 GitHub 上的 `dsh-plugin` 项目，逐个复核后分类收录。
+>
+> ### 它解决什么
+> 插件列表最容易烂在两件事：**蹭标签**（搜得到、装上去什么也不是）和**没人分类**（一长串名字，看不出哪个适合自己）。这里的做法是"机器抓 + 人复核"：真实插件按场景分类，蹭标签的剔掉，并给出适合谁、怎么开始用。
+>
+> ### 怎么用
+> 直接看 [README](README.md) 的分类目录；想找某一类就按场景翻（调度 / 面板 / 记忆 / 会话 / 网络…）。
+>
+> ### 想收录自己的插件
+> 打上 `dsh-plugin` topic 并保证仓里有一份能照着装的 README，下一轮抓取就会看到它（**收录与否按是否真能用判定，不按 star 数**）。
+
+---
+
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 [![Verified repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fbruc3van%2Fawesome-dsh-plugin%2Fmain%2Fdata%2Fstats.json&query=%24.repositories&label=verified%20repos&color=2563eb)](./CATALOG.md)
 [![Snapshot & review queue](https://github.com/bruc3van/awesome-dsh-plugin/actions/workflows/update-catalog.yml/badge.svg)](https://github.com/bruc3van/awesome-dsh-plugin/actions/workflows/update-catalog.yml)
